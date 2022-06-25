@@ -1,19 +1,20 @@
 {
-  "articles": [
+  "activities": [
     {
-      "id": 11,
-      "title": "Example Article",
-      "content": "This is an example."
+      "id": 1,
+      "title": "Food",
+      "content": "lunch"
     },
     {
-      "id": 22,
-      "title": "Second Article",
-      "content": "This is also an example."
+      "id": 2,
+      "title": "Games",
+      "content": "football."
     },
     {
-      "title": "Third Article",
-      "content": "Another example!",
-      "id":33
+      "id":3,
+      "title": "Party",
+      "content": "Naivasha"
+      
     }
   ]
 }
